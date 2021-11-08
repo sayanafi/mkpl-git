@@ -5,7 +5,8 @@ Zulkarnain (1201190004)
 <br>
 Muhammad Nafi Udin (1201190043)
 
+## Clone Project
+
 ```bash
-#Clone this Project
 gh repo clone sayanafi/mkpl-git
 ```
